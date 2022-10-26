@@ -1,4 +1,4 @@
-name: api-imo-msk-ru
+name: prod-api-imo-msk-ru
 
 on:
   push:
